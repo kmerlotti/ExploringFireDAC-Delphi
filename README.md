@@ -1,2 +1,2 @@
 # ExploringFireDAC-Delphi
-Samples from my CodeRage XI session
+Samples from my Delphi CodeRage XI session
